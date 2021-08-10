@@ -1,2 +1,0 @@
-# delaxwebsite
-Template of website
